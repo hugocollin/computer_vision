@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 27
+names: ['Bakery', 'Biscuits', 'Bombons', 'Canned', 'Cereals', 'Cheese', 'Chips', 'Choco', 'Coffee', 'Creme', 'DriedFruitsAndNuts', 'IceTea', 'Juices', 'Milk', 'Oil-Vinegar', 'Pasta', 'Rice', 'Sauce', 'Snacks', 'SoftDrinks', 'Soups', 'Spices', 'Spreads', 'Tea', 'Water', 'Yoghurt', 'chocolate']
+
+roboflow:
+  workspace: feup-l3jz5
+  project: grozi-3.2k-testing
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/feup-l3jz5/grozi-3.2k-testing/dataset/1
