@@ -66,4 +66,4 @@ Ce projet a été développé et optimisé pour une utilisation sur Google Colab
 
 ## Auteurs
 
-Cette application a été développée par [KOCAB Cyril](https://github.com/Cyr-CK) et [COLLIN Hugo](https://github.com/hugocollin), dans le cadre du Master 2 SISE.
+Ce projet a été développé par [KOCAB Cyril](https://github.com/Cyr-CK) et [COLLIN Hugo](https://github.com/hugocollin), dans le cadre du Master 2 SISE.
